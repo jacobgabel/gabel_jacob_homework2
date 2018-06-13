@@ -1,4 +1,4 @@
-<svg id="coffeeIcon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 264.31 341.97"><defs><style>.cls-1,.cls-2,.cls-3{stroke:#000;stroke-miterlimit:10;}.cls-2{fill:#fff;}.cls-3{fill:none;stroke-width:5px;}
+<svg id="coffeeIcon"  class="mainIcon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 264.31 341.97"><defs><style>.cls-1,.cls-2,.cls-3{stroke:#000;stroke-miterlimit:10;}.cls-2{fill:#fff;}.cls-3{fill:none;stroke-width:5px;}
 	#details {
 		display: block;
 	}
