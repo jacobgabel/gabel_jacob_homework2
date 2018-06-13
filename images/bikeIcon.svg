@@ -1,0 +1,12 @@
+<svg id="bikeIcon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 264.31 341.97"><defs><style>.cls-1,.cls-2,.cls-3,.cls-4,.cls-5{stroke:#000;stroke-miterlimit:10;}.cls-2,.cls-5{fill:#fff;}.cls-3{fill:none;stroke-width:4px;}.cls-4,.cls-5{stroke-width:2px;}
+	#details {
+		display: block;
+	}
+	@media screen and (max-width: 150px) {
+
+		#details {
+			display: none;
+		}
+
+	}
+	</style></defs><title>bikeIcon</title><path id="pin" class="cls-1" d="M263.58,151.07c-1.34,19.13-10.7,46.06-28.1,67.31-18.75,21-106.06,122.83-106.06,122.83S50.76,248.57,34.7,229.92,6.58,184.35,2.57,163.09C-9,92.93,28,7.19,119.69,1.26,179.24-5.51,268.92,32.73,263.58,151.07Z" transform="translate(0 -0.01)"/><ellipse id="whiteBg" class="cls-2" cx="132.15" cy="133.85" rx="104.06" ry="109.84"/><g id="wheels"><circle id="backwheel" class="cls-3" cx="92.33" cy="157.32" r="26.33"/><circle id="frontwheel" class="cls-3" cx="174.26" cy="157.32" r="26.33"/><circle id="backgear" class="cls-4" cx="92.33" cy="157.32" r="5.33"/><circle id="frontgear" class="cls-4" cx="174.26" cy="157.32" r="5.33"/></g><g id="bars"><circle id="midgear" class="cls-5" cx="133.33" cy="157.32" r="10.67"/><line id="backwheelbar" class="cls-3" x1="97.67" y1="157.32" x2="122.67" y2="157.32"/><line id="seatbar" class="cls-3" x1="128.83" y1="147.66" x2="108.67" y2="111.99"/><line id="secondbar" class="cls-3" x1="137.83" y1="147.66" x2="162.32" y2="119.12"/><line id="front_bar" data-name="front bar" class="cls-3" x1="174.26" y1="157.32" x2="156.33" y2="99.99"/><polyline id="handlebar" class="cls-3" points="144 99.99 156.23 99.99 156.33 99.99 156.38 100.13"/><line id="seat" class="cls-3" x1="122.67" y1="111.66" x2="92.33" y2="111.66"/><line id="crossbar" class="cls-3" x1="162.32" y1="119.12" x2="112.7" y2="119.12"/><line id="backsupport" class="cls-3" x1="92.33" y1="157.32" x2="112.7" y2="119.12"/></g><g id="details"><line id="pedalpart" class="cls-3" x1="132.95" y1="158.05" x2="128.33" y2="178.32"/><line id="pedal" class="cls-3" x1="137" y1="177.32" x2="122.67" y2="177.32"/></g></svg>

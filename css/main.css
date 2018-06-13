@@ -1,0 +1,9 @@
+main { text-align: center;}
+.container {
+	width: 19%;
+	display: inline-block;
+}
+.container img {
+	display: block;
+	width: 100%;
+}

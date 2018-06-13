@@ -1,0 +1,12 @@
+<svg id="homeIcon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 264.31 341.97"><defs><style>.cls-1,.cls-2{stroke:#000;stroke-miterlimit:10;}.cls-2,.cls-3{fill:#fff;}
+	#details {
+		display: block;
+	}
+	@media screen and (max-width: 150px) {
+
+		#details {
+			display: none;
+		}
+
+	}
+	</style></defs><title>homeIcon</title><g id="Layer_3" data-name="Layer 3"><path id="pin" class="cls-1" d="M888.94,332.58c-1.34,19.13-10.7,46.06-28.1,67.31-18.75,21-106.06,122.83-106.06,122.83s-78.66-92.64-94.72-111.29-28.12-45.57-32.13-66.83c-11.61-70.16,25.41-155.9,117.12-161.83C804.6,176,894.28,214.24,888.94,332.58Z" transform="translate(-625.36 -181.51)"/><ellipse id="whiteBg" class="cls-2" cx="132.15" cy="136.86" rx="104.06" ry="109.84"/><path id="house" class="cls-1" d="M712.69,386.69h90.48V301.2s-49.62-51-45.24-51-45.24,52.61-45.24,52.61Z" transform="translate(-625.36 -181.51)"/><path id="roof" class="cls-1" d="M682,309.34l75.89-81.72,77.34,81.72H807.55S756.47,251,757.93,252.43s-49.62,56.91-49.62,56.91Z" transform="translate(-625.36 -181.51)"/><g id="details"><polygon id="roofDetail" class="cls-3" points="181.46 130.02 131.84 77.48 83.68 130.02 74.93 130.02 131.84 68.73 190.21 130.02 181.46 130.02"/><rect id="doorDetail" class="cls-3" x="121.63" y="165.04" width="23.35" height="42.32"/></g></g></svg>
